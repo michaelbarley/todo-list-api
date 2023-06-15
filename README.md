@@ -2,8 +2,6 @@
 
 This is the backend API for the Vue.js Todo List application. This API provides endpoints for creating, retrieving, updating, and deleting items on the todo list.
 
-The corresponding frontend application can be found at [this link](//TODO: ADD THE LINK TO THE FRONTEND REPO).
-
 ## Setup
 
 First, clone the repository:
